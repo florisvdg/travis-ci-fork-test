@@ -1,0 +1,3 @@
+test:
+  provider: script
+  script: echo $TEST
